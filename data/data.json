@@ -3,7 +3,8 @@
         [
                 {"module": "01", "no": 1, "date": "Nov 16, 2021", "coverage":"Hardware Concepts to Network Types", "folder":"M1/CF01" },
                 {"module": "01", "no":2, "date": "Nov 16, 2021", "coverage":"Data Transfer to virues", "folder":"M1/CF02" },
-                {"module": "01", "no": 3, "date": "Nov 18, 2021", "coverage":"Windows 10 Foundation" , "folder":"M1/CF03"}
+                {"module": "01", "no": 3, "date": "Nov 18, 2021", "coverage":"Windows 10 Foundation" , "folder":"M1/CF03"},
+                {"module": "01", "no": 4, "date": "May 22, 2021", "coverage":"The Internet Whole content" , "folder":"M1/CF04"}
                 
                 
         ]
