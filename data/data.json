@@ -6,7 +6,8 @@
                 {"module": "01", "no": 3, "date": "Nov 18, 2021", "coverage":"Windows 10 Foundation" , "folder":"M1/CF03"},
                 {"module": "01", "no": 4, "date": "May 22, 2021", "coverage":"The Internet Whole content" , "folder":"M1/CF04"},
                 {"module": "01", "no": 5, "date": "May 28, 2021", "coverage":"Prep: Hardware Concepts to Network Types" , "folder":"M1/CF05"},
-                {"module": "01", "no": 6, "date": "May 29, 2021", "coverage":"Mock: Upto MS Word" , "folder":"M1/CF06"}
+                {"module": "01", "no": 6, "date": "May 29, 2021", "coverage":"Mock: Upto MS Word" , "folder":"M1/CF06"},
+                {"module": "01", "no": 7, "date": "May 29, 2021", "coverage":"Mock: Upto MS Word" , "folder":"M1/CF07"}
                 
                 
         ]
