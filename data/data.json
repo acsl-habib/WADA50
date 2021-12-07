@@ -9,8 +9,8 @@
                 {"module": "01", "no": 6, "date": "May 29, 2021", "coverage":"Mock: Upto MS Word" , "folder":"M1/CF06"},
                 {"module": "01", "no": 7, "date": "May 29, 2021", "coverage":"Mock: Upto MS Word" , "folder":"M1/CF07"},
 		{"module": "01", "no": 8, "date": "Dec 04, 2021", "coverage":"MS Excel: Whole conent" , "folder":"M1/CF08"},
-		{"module": "01", "no": 9, "date": "Dec 05, 2021", "coverage":"MS Excel: Whole conent" , "folder":"M1/CF09"}
-                
+		{"module": "01", "no": 9, "date": "Dec 05, 2021", "coverage":"MS Excel: Whole conent" , "folder":"M1/CF09"},
+                {"module": "01", "no": 10, "date": "Dec 07, 2021", "coverage":"Preparatory: Whole syllabus" , "folder":"M1/CF10"}
                 
         ]
     }
