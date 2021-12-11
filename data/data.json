@@ -74,6 +74,55 @@
                     "coverage": "Preparatory: Whole syllabus",
                     "folder": "M1/CF10"
                },
+               {
+                    "module": "01",
+                    "no": 11,
+                    "date": "Dec 11, 2021",
+                    "coverage": "Preparatory",
+                    "folder": "M1/CF11"
+               },
+               {
+                    "module": "01",
+                    "no": 12,
+                    "date": "Dec 11, 2021",
+                    "coverage": "Preparatory",
+                    "folder": "M1/CF12"
+               },
+               {
+                    "module": "01",
+                    "no": 13,
+                    "date": "Dec 11, 2021",
+                    "coverage": "Preparatory",
+                    "folder": "M1/CF13"
+               },
+               {
+                    "module": "01",
+                    "no": 14,
+                    "date": "Dec 11, 2021",
+                    "coverage": "Preparatory",
+                    "folder": "M1/CF14"
+               },
+               {
+                    "module": "01",
+                    "no": 15,
+                    "date": "Dec 11, 2021",
+                    "coverage": "Preparatory",
+                    "folder": "M1/CF15"
+               },
+               {
+                    "module": "01",
+                    "no": 16,
+                    "date": "Dec 11, 2021",
+                    "coverage": "Preparatory",
+                    "folder": "M1/CF16"
+               },
+               {
+                    "module": "01",
+                    "no": 17,
+                    "date": "Dec 11, 2021",
+                    "coverage": "Preparatory",
+                    "folder": "M1/CF17"
+               },
                {"module": "02", "no": 1, "date": "Dec 12 2021", "coverage":"Retrieve data from a single table" , "folder":"M2/SQL01"},
                {"module": "02", "no": 2, "date": "Dec 12 2021", "coverage":"Retrieve data from two or more tables" , "folder":"M2/SQL02"},
                {"module": "02", "no": 3, "date": "Dec 12 2021", "coverage":"Summary queries" , "folder":"M2/SQL03"},
