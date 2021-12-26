@@ -132,7 +132,9 @@
                {"module": "02", "no": 7, "date": "Dec 12 2021", "coverage":"Preparatory: Section 1 to 3" , "folder":"M2/SQLMock02"},
                {"module": "02", "no": 8, "date": "Dec 20 2021", "coverage":"Built-in functions" , "folder":"https://forms.office.com/r/C49Gf47Xxn"},
                {"module": "02", "no": 9, "date": "Dec 20 2021", "coverage":"Database design" , "folder":"https://forms.office.com/r/kgchABYbQw"},
-               {"module": "02", "no": 10, "date": "Dec 21 2021", "coverage":"Create database & tables" , "folder":"M2/SQL10"}
+               {"module": "02", "no": 10, "date": "Dec 21 2021", "coverage":"Create database & tables" , "folder":"M2/SQL10"},
+               {"module": "02", "no": 11, "date": "Dec 23 2021", "coverage":"Work with views" , "folder":"https://forms.gle/FddxUC9ttqmPeBx76"},
+               {"module": "02", "no": 12, "date": "Dec 26 2021", "coverage":"Code scripts" , "folder":"M2/SQL12"}
                
           ]
      }
