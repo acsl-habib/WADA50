@@ -140,7 +140,8 @@
                {"module": "03", "no": 2, "date": "Jan 03 2022", "coverage":"Methods and scope" , "folder":"M3/CS02"},
                {"module": "03", "no": 3, "date": "Jan 04 2021", "coverage":"Decision statements" , "folder":"M3/CS03"},
                {"module": "03", "no": 4, "date": "Jan 04 2021", "coverage":"Compound assignment and iteration" , "folder":"M3/CS04"},
-               {"module": "03", "no": 5, "date": "Jan 05 2021", "coverage":"Values and reference" , "folder":"M3/CS06"}
+               {"module": "03", "no": 5, "date": "Jan 05 2021", "coverage":"Values and reference" , "folder":"M3/CS05"},
+               {"module": "03", "no": 6, "date": "Jan 06 2021", "coverage":"Exceptions" , "folder":"M3/CS06"}
              
                
           ]
