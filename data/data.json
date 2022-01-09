@@ -138,13 +138,13 @@
                {"module": "02", "no": 13, "date": "Dec 27 2021", "coverage":"Views, Procedures, Functions and Triggers" , "folder":"M2/SQL13"},
                {"module": "03", "no": 1, "date": "Jan 03 2022", "coverage":"Variables, Operators, Expression" , "folder":"M3/CS01"},
                {"module": "03", "no": 2, "date": "Jan 03 2022", "coverage":"Methods and scope" , "folder":"M3/CS02"},
-               {"module": "03", "no": 3, "date": "Jan 04 2021", "coverage":"Decision statements" , "folder":"M3/CS03"},
-               {"module": "03", "no": 4, "date": "Jan 04 2021", "coverage":"Compound assignment and iteration" , "folder":"M3/CS04"},
-               {"module": "03", "no": 5, "date": "Jan 05 2021", "coverage":"Values and reference" , "folder":"M3/CS05"},
-               {"module": "03", "no": 6, "date": "Jan 06 2021", "coverage":"Exceptions" , "folder":"M3/CS06"},
-               {"module": "03", "no": 7, "date": "Jan 07 2021", "coverage":"Classes and Objects" , "folder":"M3/CS07"},
-               {"module": "03", "no": 8, "date": "Jan 09 2021", "coverage":"Value type and reference type" , "folder":"M3/CS08"},
-               {"module": "03", "no": 9, "date": "Jan 09 2021", "coverage":"Arrays" , "folder":"M3/CS09"}
+               {"module": "03", "no": 3, "date": "Jan 04 2022", "coverage":"Decision statements" , "folder":"M3/CS03"},
+               {"module": "03", "no": 4, "date": "Jan 04 2022", "coverage":"Compound assignment and iteration" , "folder":"M3/CS04"},
+               {"module": "03", "no": 5, "date": "Jan 05 2022", "coverage":"Values and reference" , "folder":"M3/CS05"},
+               {"module": "03", "no": 6, "date": "Jan 06 2022", "coverage":"Exceptions" , "folder":"M3/CS06"},
+               {"module": "03", "no": 7, "date": "Jan 07 2022", "coverage":"Classes and Objects" , "folder":"M3/CS07"},
+               {"module": "03", "no": 8, "date": "Jan 09 2022", "coverage":"Value type and reference type" , "folder":"M3/CS08"},
+               {"module": "03", "no": 9, "date": "Jan 09 2022", "coverage":"Arrays" , "folder":"M3/CS09"}
              
                
           ]
