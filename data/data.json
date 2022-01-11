@@ -145,7 +145,8 @@
                {"module": "03", "no": 7, "date": "Jan 07 2022", "coverage":"Classes and Objects" , "folder":"M3/CS07"},
                {"module": "03", "no": 8, "date": "Jan 09 2022", "coverage":"Value type and reference type" , "folder":"M3/CS08"},
                {"module": "03", "no": 9, "date": "Jan 09 2022", "coverage":"Arrays" , "folder":"M3/CS09"},
-               {"module": "03", "no": 10, "date": "Jan 09 2022", "coverage":"Mock" , "folder":"https://forms.gle/79QdMUibrXPswkKk7"}
+               {"module": "03", "no": 10, "date": "Jan 09 2022", "coverage":"Mock" , "folder":"https://forms.gle/79QdMUibrXPswkKk7"},
+               {"module": "03", "no": 11, "date": "Jan 11 2022", "coverage":"Mock" , "folder":"M3/CS11"}
                
           ]
      }
