@@ -147,7 +147,8 @@
                {"module": "03", "no": 9, "date": "Jan 09 2022", "coverage":"Arrays" , "folder":"M3/CS09"},
                {"module": "03", "no": 10, "date": "Jan 09 2022", "coverage":"Mock" , "folder":"https://forms.gle/79QdMUibrXPswkKk7"},
                {"module": "03", "no": 11, "date": "Jan 11 2022", "coverage":"Mock" , "folder":"M3/CS11"},
-               {"module": "03", "no": 12, "date": "Jan 12 2022", "coverage":"Mock" , "folder":"https://forms.office.com/r/BXwi5TfVat"}
+               {"module": "03", "no": 12, "date": "Jan 12 2022", "coverage":"Mock" , "folder":"https://forms.office.com/r/BXwi5TfVat"},
+               {"module": "03", "no": 13, "date": "Jan 12 2022", "coverage":"Mock" , "folder":"M3/CS13"}
                
           ]
      }
