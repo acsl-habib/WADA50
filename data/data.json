@@ -152,7 +152,9 @@
                {"module": "03", "no": 14, "date": "Jan 12 2022", "coverage":"Mock" , "folder":"https://forms.office.com/r/zFn4U48mSh"},
                {"module": "03", "no": 15, "date": "Jan 21 2022", "coverage":"Garbadge collection" , "folder":"https://forms.gle/T1acuLFcH4FdQKXaA"},
                {"module": "03", "no": 16, "date": "Jan 22 2022", "coverage":"Properties, Binary data" , "folder":"M3/CS16"},
-               {"module": "03", "no": 17, "date": "Jan 23 2022", "coverage":"Generics" , "folder":"M3/CS17"}
+               {"module": "03", "no": 17, "date": "Jan 23 2022", "coverage":"Generics" , "folder":"M3/CS17"},
+               {"module": "03", "no": 18, "date": "Jan 24 2022", "coverage":"Generics" , "folder":"M3/CS18"},
+               {"module": "03", "no": 19, "date": "Jan 24 2022", "coverage":"Collections" , "folder":"M3/CS19"}
                
           ]
      }
