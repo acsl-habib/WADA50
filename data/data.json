@@ -158,8 +158,10 @@
                {"module": "03", "no": 20, "date": "Jan 25 2022", "coverage":"Mock" , "folder":"M3/CSMock03"},
                {"module": "03", "no": 21, "date": "Jan 26 2022", "coverage":"Mock" , "folder":"M3/CSMock04"},
                {"module": "03", "no":22,"date":"Jan 26 2022","coverage": "mock", "folder":"https://forms.office.com/r/RZgtyK8ERn"},
-               {"module": "04", "no":1,"date":"Feb 7 2022","coverage": "HTML", "folder":"M4/HTML_CSS_JS01"}
-               
+               {"module": "04", "no":1,"date":"Feb 7 2022","coverage": "HTML", "folder":"M4/HTML_CSS_JS01"},
+               {"module": "04", "no": 2, "date": "Feb 9 2021", "coverage":"Getting started with JavaScript" , "folder":"M4/HTML_CSS_JS02"},
+                {"module": "04", "no": 3, "date": "Feb 9 2021", "coverage":"More JavaScript" , "folder":"M4/HTML_CSS_JS03"},
+                {"module": "04", "no": 4, "date": "Feb 9 2021", "coverage":"More JavaScript" , "folder":"M4/HTML_CSS_JS04"}
           ]
      }
 ]
