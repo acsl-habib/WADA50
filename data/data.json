@@ -164,7 +164,9 @@
                {"module": "04", "no": 4, "date": "Feb 9 2021", "coverage":"More JavaScript" , "folder":"M4/HTML_CSS_JS04"},
                {"module": "04", "no": 5, "date": "Feb 12 2021", "coverage":"Mock (C#, HTML)" , "folder":"M4/HTML_CSS_JS_Mock01"},
                {"module": "04", "no": 6, "date": "Feb 12 2021", "coverage":"Mock (C#, HTML)" , "folder":"M4/HTML_CSS_JS_Mock02"},
-               {"module": "04", "no": 7, "date": "Feb 12 2021", "coverage":"Mock (C#, HTML)" , "folder":"M4/HTML_CSS_JS_Mock03"}
+               {"module": "04", "no": 7, "date": "Feb 12 2021", "coverage":"Mock (C#, HTML)" , "folder":"M4/HTML_CSS_JS_Mock03"},
+               {"module": "04", "no": 8, "date": "Feb 23 2021", "coverage":"Async operation" , "folder":"M4/HTML_CSS_JS06"},
+               {"module": "05", "no": 1, "date": "Feb 23 2021", "coverage":"MVC Controllers" , "folder":"M5/MVC01"}
           ]
      }
 ]
