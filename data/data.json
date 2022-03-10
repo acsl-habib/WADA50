@@ -171,7 +171,9 @@
                {"module": "05", "no": 3, "date": "Feb 24 2022", "coverage":"Model-binding " , "folder":"M5/MVC03"},
                {"module":"04", "no": 9,"date":"Feb 25 2022", "coverage":"Mock", "folder":"https://forms.office.com/r/DMRceD6Fqq"},
                {"module": "05", "no": 4, "date": "Feb 26 2022", "coverage":"Mock" , "folder":"https://forms.office.com/r/xwkw8QNB17"},
-               {"module": "05", "no": 5, "date": "Mar 08 2022", "coverage":"Input forms" , "folder":"M5/MVC05"}
+               {"module": "05", "no": 5, "date": "Mar 08 2022", "coverage":"Input forms" , "folder":"M5/MVC05"},
+               {"module": "05", "no": 6, "date": "Mar 10 2022", "coverage":"Application aspects & security" , "folder":"M5/MVC06"},
+               {"module": "05", "no": 7, "date": "Mar 10 2022", "coverage":"Design & customize controller" , "folder":"M5/MVC07"}
                
           ]
      }
